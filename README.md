@@ -1,6 +1,6 @@
 # Annadata — Meta Repository
 
-Short one-line summary of the project (1 sentence).
+AnnaData is an AI advisory system for Indian farmers
 
 ## Repositories
 - **Frontend**: https://github.com/ShahilGuptaa/AnnaData-Frontend
